@@ -12,6 +12,11 @@
 	border: 0;
 }
 
+@font-face {
+  font-family: 'Gordita';
+  src: url(Gordita Regular.otf) format('otf');
+}
+
 img{
 	max-width: 100%;
 
@@ -67,13 +72,6 @@ body{
 	font-weight: 400;
 	font-size: 16px;
 	color: #E0E0E0;
-}
-
-@font-face {
-  font-family: 'Gordita';
-  src: url('Gordita Regular.otf') format('otf');
-  font-weight: normal;
-  font-style: normal;
 }
 
 /* -----------------------HEADER----------------------*/
