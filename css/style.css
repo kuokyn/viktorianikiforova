@@ -69,6 +69,12 @@ body{
 	color: #E0E0E0;
 }
 
+@font-face {
+  font-family: 'Gordita';
+  src: url('Gordita Regular.otf') format('otf');
+  font-weight: normal;
+  font-style: normal;
+}
 
 /* -----------------------HEADER----------------------*/
 
