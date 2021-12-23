@@ -12,11 +12,6 @@
 	border: 0;
 }
 
-@font-face {
-  font-family: "Gordita", sans-serif;
-  src: url(Gordita-Regular.ttf);
-}
-
 img{
 	max-width: 100%;
 
